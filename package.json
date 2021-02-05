@@ -1,0 +1,22 @@
+{
+  "name": "proyectoconnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpalacio9702/ProyectoConNode.git"
+  },
+  "author": "jpalacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpalacio9702/ProyectoConNode/issues"
+  },
+  "homepage": "https://github.com/jpalacio9702/ProyectoConNode#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
